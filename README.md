@@ -3,7 +3,9 @@ This project implements a user-user collaborative filtering movie recommendation
 
 # Problem Statement
 <img width="1339" height="113" alt="image" src="https://github.com/user-attachments/assets/1950b6c7-5208-4755-be95-09c4c70c6dfb" />
+
 # Solution Summary
+
 - Implemented a **user-user collaborative filtering movie recommendation system** on the **MovieLens dataset**.
 
 - **Technical Workflow**:
